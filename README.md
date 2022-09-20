@@ -3,6 +3,8 @@
 - 🔭 I’m currently working as a consultant for BankId/BankAxept
 - 🌱 I’m currently learning system design
 
+I have a [couple of repos](https://github.com/fredrkl?tab=repositories&q=cncf-demo) showing how to use different CNCF tools.
+
 <!--
 **fredrkl/fredrkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
