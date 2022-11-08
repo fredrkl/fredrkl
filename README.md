@@ -5,6 +5,7 @@
 - :octocat: [Couple of repos](https://github.com/fredrkl?tab=repositories&q=cncf-demo) showing how to use different CNCF tools.
 - 📝 Feel free to connect on [Linkedin](https://www.linkedin.com/in/fredrikklingenberg/)
 - :man_technologist: I am a [MS MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004794), [Linkerd ambassador](https://linkerd.io/community/ambassadors/) and [Traefik ambassador](https://traefik.io/traefik-ambassador-program)
+- 👨‍💻I hold the CKAD and CKA K8s certifications
 
 
 ### 📊 GitHub Stats:
