@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 - 📫 How to reach me: https://fredrkl.com
 - 🔭 I’m currently working as a consultant for BankId/BankAxept
 - 🌱 I’m currently learning system design
@@ -6,6 +7,8 @@
 - 📝 Feel free to connect on [Linkedin](https://www.linkedin.com/in/fredrikklingenberg/)
 - :man_technologist: I am a [MS MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004794), [Linkerd ambassador](https://linkerd.io/community/ambassadors/) and [Traefik ambassador](https://traefik.io/traefik-ambassador-program)
 - 👨‍💻I hold the CKAD and CKA K8s certifications
+
+![MVP](./img/mvp.jpg)
 
 <!--
 ### 📊 GitHub Stats:
