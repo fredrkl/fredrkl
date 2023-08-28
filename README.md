@@ -8,7 +8,7 @@
 - :man_technologist: I am a [MS MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004794), [Linkerd ambassador](https://linkerd.io/community/ambassadors/) and [Traefik ambassador](https://traefik.io/traefik-ambassador-program)
 - 👨‍💻I hold the CKAD and CKA K8s certifications
 
-![MVP](./img/mvp.jpg)
+![MVP](./img/mvp.jpg)![Linkerd](./img/linkerd.png)![Traefik](./img/traefik.png)
 
 <!--
 ### 📊 GitHub Stats:
