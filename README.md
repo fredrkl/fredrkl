@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: https://fredrkl.com
-- 🔭 I’m currently working as an architect for BankId/BankAxept
+- 🔭 I’m currently working as an architect for Flytoget-Norway Airport Express Train
 - 🌱 I’m currently learning system design
 - :octocat: [Couple of repos](https://github.com/fredrkl?tab=repositories&q=cncf-demo) showing how to use different CNCF tools.
 - 📝 Feel free to connect on [Linkedin](https://www.linkedin.com/in/fredrikklingenberg/) or follow me on [Twitter](https://twitter.com/fredrkl)
